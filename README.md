@@ -30,4 +30,12 @@ A platform that simulates AI-led mock interviews based on resumes and job descri
 ## Screenshots
 
 <img width="1894" height="909" alt="image" src="https://github.com/user-attachments/assets/f0746e27-e1b7-4a7e-a1e1-4eb83172beb8" />
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/6f684b90-0deb-42ec-86bb-c4248c5de9e0" />
+<img width="1901" height="914" alt="image" src="https://github.com/user-attachments/assets/a2fb1cf6-cab1-46b5-b8e3-798eb854c72a" />
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/c58d8918-b7b8-43d2-b5f1-10f5493be3ef" />
+<img width="1920" height="909" alt="image" src="https://github.com/user-attachments/assets/cb6c703b-a28b-4f73-96b0-05da17ea6f2f" />
+
+
+
+
 

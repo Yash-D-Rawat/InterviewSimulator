@@ -9,15 +9,15 @@
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-red?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-A platform that simulates AI-led mock interviews based on resumes and job descriptions, providing dynamic questions and personalized feedback. [cite: 18]
+A platform that simulates AI-led mock interviews based on resumes and job descriptions, providing dynamic questions and personalized feedback. 
 
 ## Features
 
-* **AI-led Mock Interviews**: Simulates realistic interview scenarios tailored to your resume and a given job description. [cite: 18]
-* **Custom Scoring Engine**: Evaluates resume-job fit using Sentence-BERT to determine semantic similarity and skill matching. [cite: 20]
-* **Resume Content Extraction**: Extracts resume content using PyPDF2 and performs section-based analysis with experience estimation. [cite: 21]
-* **Dynamic Interview Questions**: Generates personalized and relevant interview questions using the Gemini API. [cite: 22]
-* **Personalized Feedback**: Provides tailored feedback covering strengths, weaknesses, and potential improvements. [cite: 22]
+* **AI-led Mock Interviews**: Simulates realistic interview scenarios tailored to your resume and a given job description. 
+* **Custom Scoring Engine**: Evaluates resume-job fit using Sentence-BERT to determine semantic similarity and skill matching. 
+* **Resume Content Extraction**: Extracts resume content using PyPDF2 and performs section-based analysis with experience estimation. 
+* **Dynamic Interview Questions**: Generates personalized and relevant interview questions using the Gemini API. 
+* **Personalized Feedback**: Provides tailored feedback covering strengths, weaknesses, and potential improvements.
 
 ## Technologies Used
 

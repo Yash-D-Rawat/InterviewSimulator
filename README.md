@@ -25,5 +25,9 @@ A platform that simulates AI-led mock interviews based on resumes and job descri
 * **Backend**: Flask 
 * **Authentication**: Firebase
 * **AI/ML**: Sentence-BERT, Gemini API 
-* **PDF Processing**: PyPDF2 
+* **PDF Processing**: PyPDF2
+
+## Screenshots
+
+<img width="1894" height="909" alt="image" src="https://github.com/user-attachments/assets/f0746e27-e1b7-4a7e-a1e1-4eb83172beb8" />
 
